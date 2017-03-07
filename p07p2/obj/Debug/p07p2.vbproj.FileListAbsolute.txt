@@ -1,0 +1,16 @@
+c:\users\portatil\documents\visual studio 2013\Projects\p07p2\p07p2\bin\Debug\p07p2.exe.config
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\bin\Debug\p07p2.exe
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\bin\Debug\p07p2.pdb
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\bin\Debug\p07p2.xml
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\obj\Debug\p07p2.BasePrimaria.resources
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\obj\Debug\p07p2.Resources.resources
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\obj\Debug\p07p2.vbproj.GenerateResource.Cache
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\obj\Debug\p07p2.exe
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\obj\Debug\p07p2.xml
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\obj\Debug\p07p2.pdb
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\obj\Debug\p07p2.vbprojResolveAssemblyReference.cache
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\bin\Debug\EntityFramework.dll
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\bin\Debug\EntityFramework.xml
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\obj\Debug\p07p2.Areea.resources
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\obj\Debug\p07p2.Triangle.resources
+C:\Users\Portatil\documents\visual studio 2013\Projects\p07p2\p07p2\obj\Debug\p07p2.Menu.resources

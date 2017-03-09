@@ -75,47 +75,107 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FillsAreeas\Triangle.Designer.vb">
-      <DependentUpon>Triangle.vb</DependentUpon>
+    <Compile Include="ExerciciHerencies\Pare\Altres\AltresFills\Fibonacci.Designer.vb">
+      <DependentUpon>Fibonacci.vb</DependentUpon>
     </Compile>
-    <Compile Include="FillsAreeas\Triangle.vb">
+    <Compile Include="ExerciciHerencies\Pare\Altres\AltresFills\Fibonacci.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Menu.Designer.vb">
+    <Compile Include="ExerciciHerencies\Pare\Altres\AltresFills\NumToLletra.Designer.vb">
+      <DependentUpon>NumToLletra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Altres\AltresFills\NumToLletra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Altres\AltresFills\TaulaMulti.Designer.vb">
+      <DependentUpon>TaulaMulti.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Altres\AltresFills\TaulaMulti.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Divisio.Designer.vb">
+      <DependentUpon>Divisio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Divisio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Multiplicacio.Designer.vb">
+      <DependentUpon>Multiplicacio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Multiplicacio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Resta.Designer.vb">
+      <DependentUpon>Resta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Resta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Suma.Designer.vb">
+      <DependentUpon>Suma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Suma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Circumferencia.Designer.vb">
+      <DependentUpon>Circumferencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Circumferencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Areeas\Areeas.Designer.vb">
+      <DependentUpon>Areeas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Areeas\Areeas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Menu.Designer.vb">
       <DependentUpon>Menu.vb</DependentUpon>
     </Compile>
-    <Compile Include="Menu.vb">
+    <Compile Include="ExerciciHerencies\Menu.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Pares\Altres.Designer.vb">
+    <Compile Include="ExerciciHerencies\Pare\Altres\Altres.Designer.vb">
       <DependentUpon>Altres.vb</DependentUpon>
     </Compile>
-    <Compile Include="Pares\Altres.vb">
+    <Compile Include="ExerciciHerencies\Pare\Altres\Altres.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Pares\Areea.Designer.vb">
-      <DependentUpon>Areea.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Pares\Areea.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Pares\Aritmetica.Designer.vb">
+    <Compile Include="ExerciciHerencies\Pare\Aritmetica\Aritmetica.Designer.vb">
       <DependentUpon>Aritmetica.vb</DependentUpon>
     </Compile>
-    <Compile Include="Pares\Aritmetica.vb">
+    <Compile Include="ExerciciHerencies\Pare\Aritmetica\Aritmetica.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Avi\BasePrimaria.vb">
+    <Compile Include="ExerciciHerencies\Pare\BasePrimaria.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Avi\BasePrimaria.Designer.vb">
+    <Compile Include="ExerciciHerencies\Pare\BasePrimaria.Designer.vb">
       <DependentUpon>BasePrimaria.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Pares\Cadenes.Designer.vb">
+    <Compile Include="ExerciciHerencies\Pare\Cadenes\Cadenes.Designer.vb">
       <DependentUpon>Cadenes.vb</DependentUpon>
     </Compile>
-    <Compile Include="Pares\Cadenes.vb">
+    <Compile Include="ExerciciHerencies\Pare\Cadenes\Cadenes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Cadenes\CadenesFills\ContaLletres.Designer.vb">
+      <DependentUpon>ContaLletres.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Cadenes\CadenesFills\ContaLletres.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Cadenes\CadenesFills\InvertirCadena.Designer.vb">
+      <DependentUpon>InvertirCadena.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Cadenes\CadenesFills\InvertirCadena.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Cadenes\CadenesFills\RepeticioCaracter.Designer.vb">
+      <DependentUpon>RepeticioCaracter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Cadenes\CadenesFills\RepeticioCaracter.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -133,25 +193,91 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Triangle.Designer.vb">
+      <DependentUpon>Triangle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Triangle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Rodona.Designer.vb">
+      <DependentUpon>Rodona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Rodona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Rectangle.Designer.vb">
+      <DependentUpon>Rectangle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Rectangle.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="FillsAreeas\Triangle.resx">
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Altres\Altres.resx">
+      <DependentUpon>Altres.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Altres\AltresFills\Fibonacci.resx">
+      <DependentUpon>Fibonacci.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Altres\AltresFills\NumToLletra.resx">
+      <DependentUpon>NumToLletra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Altres\AltresFills\TaulaMulti.resx">
+      <DependentUpon>TaulaMulti.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Aritmetica\Aritmetica.resx">
+      <DependentUpon>Aritmetica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Divisio.resx">
+      <DependentUpon>Divisio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Multiplicacio.resx">
+      <DependentUpon>Multiplicacio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Resta.resx">
+      <DependentUpon>Resta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Aritmetica\AritmeticaFills\Suma.resx">
+      <DependentUpon>Suma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Circumferencia.resx">
+      <DependentUpon>Circumferencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Triangle.resx">
       <DependentUpon>Triangle.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Menu.resx">
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Areeas\Areeas.resx">
+      <DependentUpon>Areeas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Menu.resx">
       <DependentUpon>Menu.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Pares\Areea.resx">
-      <DependentUpon>Areea.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Avi\BasePrimaria.resx">
+    <EmbeddedResource Include="ExerciciHerencies\Pare\BasePrimaria.resx">
       <DependentUpon>BasePrimaria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Cadenes\Cadenes.resx">
+      <DependentUpon>Cadenes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Cadenes\CadenesFills\ContaLletres.resx">
+      <DependentUpon>ContaLletres.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Cadenes\CadenesFills\InvertirCadena.resx">
+      <DependentUpon>InvertirCadena.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Cadenes\CadenesFills\RepeticioCaracter.resx">
+      <DependentUpon>RepeticioCaracter.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Rodona.resx">
+      <DependentUpon>Rodona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExerciciHerencies\Pare\Areeas\AreeasFills\Rectangle.resx">
+      <DependentUpon>Rectangle.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -167,6 +293,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
